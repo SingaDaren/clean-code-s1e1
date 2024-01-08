@@ -43,16 +43,16 @@
 }
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 .task__button {
@@ -107,7 +107,7 @@ input,button{
 
 #new-task {
   width: 318px;
-  display:inline-block;
+  display: inline-block;
 }
 
 /* Task list */
@@ -154,10 +154,10 @@ input,button{
 
 /* Edit Task */
 .task_edit-mode .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task_edit-mode .task__label {
-  display:none;
+  display: none;
 }
